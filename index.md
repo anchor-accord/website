@@ -34,45 +34,39 @@ tags:
 ---
   <h1>Infrastructure & Compliance</h1>
   <p>
-    We help organizations stabilize the technical and regulatory foundations they
-    rely on but rarely inspect. From system design to compliance architecture,
-    we reduce risk, improve resilience, and often cut cost in the process.
-    Whether you're scaling fast or correcting inherited complexity, we build
-    what's missing and fortify what matters.
+   We support organizations in identifying systemic, technical, and regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
   </p>
 
-  <p><strong>Anchor Accord is a Boston-based strategic advisory partner for the moments when the edges begin to fray:</strong></p>
+  <p><strong>Our clients often come to us with a sense that something is off:</strong></p>
   <blockquote>
   <ul>
-    <li>Technical systems cost more but deliver less clarity, alignment, or trust.</li>
-    <li>BSA/AML/OFAC risk is mounting with no decisive owner.</li>
-    <li>Key staff are stretched thin - or preparing to leave.</li>
-    <li>Workflows sprawl, but there's no time to redesign them.</li>
+    <li>Systems cost more, but deliver less reliability or value.</li>
+    <li>Vendors fail to produce results yet keep adding more fees.</li>
+    <li>BSA/AML/OFAC risk is growing or recent audits have surfaced findings.</li>
+    <li>Decision-making slows when urgency increases, even for experienced teams.</li>
+    <li>You've inherited complexity that "can't be unraveled".</li>    
   </ul>
   </blockquote>
 
-  <p>We don’t bring a 50-person team.<br>
-  We bring focus, experience, and clarity.</p>
-
-
 <section id="services" class="scroll-section">
   <h1>Services</h1>
-  <p>
-    We focus on two domains often treated as cost centers: <strong>infrastructure systems</strong> and
-    <strong>regulatory compliance</strong>. In reality, these are leverage points. When aligned,
-    they reduce risk, unlock clarity, and stabilize the business beneath the surface.
-  </p>
-  <p>
-    We help you get there - calmly, pragmatically, and without the usual theatre.
-  </p>
+<p><strong>We don't sell servers, network gear, or binders filled with fluff. We help
+you see what’s bleeding time, money, and trust.</strong></p>
+
+<p>We uncover where things break down technically and operationally. If you’ve had systems and network outages, audit scrambles, or vendor cost surprises, we find the root cause and fix it without blowing up your budget.</p>
+
+<p>We’ve replaced legacy responsibilities with a few hundred lines of code. We’ve cut year-long onboarding delays to a week with three pages of documentation. We map the mess, clean it up, and stop the waste.</p>
+
+
   <aside class="note-block">
     <strong>What we mean by “systems”:</strong><br>
-    Not just apps or servers - but the interconnected people, tools, and decisions that make your work possible. Infrastructure, compliance, automation, judgment. If it interacts, it’s part of the system.
+    Not just apps or servers - but the interconnected people, tools, and decisions that make your work possible. Infrastructure, compliance, automation, judgment.<br>
+    If it interacts, it’s part of the system.
   </aside>
 </section>
 
 <section class="service-block">
-  <h2>Infrastructure Health Assessments</h2>
+  <h2>Systems and Infrastructure Health Assessments</h2>
   <div class="services-grid">
     <div class="service-short">
       <img src="/assets/svg/book-check.svg" alt="Book Icon" class="icon" />
@@ -88,20 +82,14 @@ tags:
     </div>
   </div>
   <p>
-    We specialize in stabilizing operations through grounded, real-world
-    systems - not by chasing the latest cloud tool, but by understanding
-    how your business actually runs.
+    We specialize in stabilizing high-consequence, complex operations
+    through grounded, real-world systems - not by chasing the latest cloud
+    tool, but by understanding how your business actually runs.
   </p>
   <p>
     Reactivity often creeps in slowly, in the form of late nights,
     quiet burnout, or one too many heroic catches. Most teams don’t even
-    notice the shift at first. They just feel tired. Or stuck. Or like
-    everything’s slightly harder than it used to be.
-  </p>
-  <p>
-    What you need is someone who can hear the hum of the system, cut through
-    the noise, and show you what’s dragging you off balance. We’ll help you
-    reclaim time, clarity, and control - without disrupting the business to do it.
+    notice the shift at first. They just feel like everything’s slightly harder than it used to be. We’ll help you reclaim control - without disrupting the business to do it.
   </p>
   <details class="case-study">
     <summary>Case Study: Scaling, Stalled - How Invisible Infrastructure Debt Drains Product Momentum</summary>
@@ -136,11 +124,7 @@ tags:
   </div>
   <p>
     Our compliance work focuses on BSA/AML/OFAC and broader financial crimes
-    frameworks - bringing clarity, structure, and calm to environments where
-    regulatory pressure is high and reactive churn often overwhelms real strategy.
-  </p>
-  <p>
-    Whether you're preparing for an audit, untangling legacy policies, or
+    frameworks. If you're preparing for an audit, untangling legacy policies, or
     trying to understand what “good” looks like, we can help. We've led
     strategic remediation, regulatory response, and exam prep across
     both FinTechs and traditional banks.
@@ -149,10 +133,6 @@ tags:
     Many organizations don’t realize they’re exposed - or even complicit - until
     someone puts the pattern in front of them. We bring that pattern into
     focus, then help you act on it, calmly and responsibly.
-  </p>
-  <p>
-    We don’t hand you a checklist. We work alongside you to rebuild
-    confidence - so you're not just compliant on paper, but resilient in practice.
   </p>
   <details class="case-study"> 
     <summary>Case Study: Signal, not Noise - Assessing and Rebuilding Case Management Systems</summary>
@@ -197,16 +177,21 @@ tags:
 </section>
 
 <section id="about" class="scroll-section">
-  <h1>Our Founders</h1>
-  <p>
-    Anchor Accord was founded by two senior operators who’ve lived the hard side of systems work.
-  </p>
-  <p>
-    We’ve seen what happens when risk is underestimated, when frameworks get forced, and when ownership diffuses under pressure. Between us, we’ve stabilized systems, rebuilt trust, and designed the structures that kept both infrastructure and compliance aligned under true pressure.
-  </p>
-  <p>
-    We’re not here to sell bodies or build optics. We’re here to bring clarity across <strong>technical and regulatory domains</strong> — especially when the stakes are rising and certainty is thin.
-  </p>
+<h1>Our Founders</h1>
+<p>
+Anchor Accord was founded by two senior operators with deep experience navigating technical and regulatory risk. They've worked inside growing companies, banks, and infrastructure providers, often stepping in when systems were already failing.
+</p>
+<p>
+They’ve seen what happens when ownership disappears, frameworks are forced, or vendors quietly underdeliver. They've stabilized operations, rebuilt trust, and designed structures that kept infrastructure and compliance aligned when it mattered most.
+</p>
+<p>
+The founders remain actively involved in the work especially where clarity, strategy, and sound judgment are critical. Anchor Accord is a place where hard-earned experience shapes how problems are understood and solved.
+</p>
+<p>
+We bring grounded clarity across <strong>technical and regulatory domains</strong>, especially when the stakes are high and certainty is thin.
+</p>
+
+
 
   <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem; margin-right: 1rem; margin-top: 1rem;">
     <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" />
@@ -246,6 +231,6 @@ tags:
   <h1>Contact</h1>
   <p>
     Anchor Accord works with a limited number of organizations at a time.
-    If you're navigating a moment of regulatory, technical, or operational pressure and need clarity, you can request a briefing below.
+    If you're navigating a moment of regulatory, technical, or operational complexities and need clarity, you can request a briefing below.
   </p>
 </section>
