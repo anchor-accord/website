@@ -179,19 +179,14 @@ you see what’s bleeding time, money, and trust.</strong></p>
 <section id="about" class="scroll-section">
 <h1>Our Founders</h1>
 <p>
-Anchor Accord was founded by two senior operators with deep experience navigating technical and regulatory risk. They've worked inside growing companies, banks, and infrastructure providers, often stepping in when systems were already failing.
+Anchor Accord was founded by two senior operators with deep experience in infrastructure and compliance. We've worked inside national ISPs, banks, and scaling companies, often stepping in when the pressure is high and the systems are already strained.
 </p>
 <p>
-They’ve seen what happens when ownership disappears, frameworks are forced, or vendors quietly underdeliver. They've stabilized operations, rebuilt trust, and designed structures that kept infrastructure and compliance aligned when it mattered most.
+We’ve seen what happens when ownership diffuses, frameworks get forced, or vendors quietly underdeliver. We’ve rebuilt trust, stabilized operations, and designed systems that hold up under real-world conditions.
 </p>
 <p>
-The founders remain actively involved in the work especially where clarity, strategy, and sound judgment are critical. Anchor Accord is a place where hard-earned experience shapes how problems are understood and solved.
+Anchor Accord is built on wisdom, not headcount.
 </p>
-<p>
-We bring grounded clarity across <strong>technical and regulatory domains</strong>, especially when the stakes are high and certainty is thin.
-</p>
-
-
 
   <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem; margin-right: 1rem; margin-top: 1rem;">
     <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" />
