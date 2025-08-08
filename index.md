@@ -37,7 +37,7 @@ tags:
    We support organizations in identifying systemic, technical, and regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
   </p>
 
-  <p><strong>Our clients often come to us with a sense that something is off:</strong></p>
+  <p><strong>Our clients generally don't realize something is off:</strong></p>
   <blockquote>
   <ul>
     <li>Systems cost more, but deliver less reliability or value.</li>
@@ -55,7 +55,7 @@ you see what’s bleeding time, money, and trust.</strong></p>
 
 <p>We uncover where things break down technically and operationally. If you’ve had systems and network outages, audit scrambles, or vendor cost surprises, we find the root cause and fix it without blowing up your budget.</p>
 
-<p>We’ve replaced legacy responsibilities with a few hundred lines of code. We’ve cut year-long onboarding delays to a week with three pages of documentation. We map the mess, clean it up, and stop the waste.</p>
+<p>We’ve replaced legacy responsibilities with a few lines of code. We’ve cut year-long onboarding delays to a week with two pages of documentation. We make things easier.</p>
 
 
   <aside class="note-block">
@@ -99,8 +99,7 @@ you see what’s bleeding time, money, and trust.</strong></p>
      themselves mired in troubleshooting. Infrastructure wasn’t failing
      in dramatic ways, it was just misaligned, invisible, and slow to adapt. Time
      was lost, momentum slipped, and product development suffered. This case
-     explores how treating infrastructure as a cost center, rather than a force
-     multiplier created drag the company couldn't afford.
+     explores transforming IT from a cost center into a force multiplier.
     </p>
     <p><a href="/downloads/cs-biotech-scaling.pdf">Download full case study (PDF)</a></p>
   </details>
