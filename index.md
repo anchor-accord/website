@@ -34,7 +34,7 @@ tags:
 ---
   <h1>Infrastructure & Compliance</h1>
   <p>
-   We support organizations in identifying systemic, technical, and regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
+   We support organizations in navigating systemic, networking, and regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
   </p>
 
   <p><strong>Our clients generally don't realize something is off:</strong></p>
@@ -50,18 +50,16 @@ tags:
 
 <section id="services" class="scroll-section">
   <h1>Services</h1>
-<p><strong>We don't sell servers, network gear, or binders filled with fluff. We help
-you see what’s bleeding time, money, and trust.</strong></p>
 
-<p>We uncover where things break down technically and operationally. If you’ve had systems and network outages, audit scrambles, or vendor cost surprises, we find the root cause and fix it without blowing up your budget.</p>
 
-<p>We’ve replaced legacy responsibilities with a few lines of code. We’ve cut year-long onboarding delays to a week with two pages of documentation. We make things easier.</p>
+<p>We uncover break down technically and operationally. If you’ve had systems and network outages, audit scrambles, or vendor cost surprises, we find the root cause and fix it without blowing up your budget.</p>
+<p><strong>We don't sell servers, network gear, or theory fluff. We help
+you see what’s bleeding time, money, and trust.</strong> We’ve replaced legacy responsibilities with a few lines of code. We’ve cut year-long onboarding delays to a week with two pages of documentation. We make things easier.</p>
 
 
   <aside class="note-block">
     <strong>What we mean by “systems”:</strong><br>
-    Not just apps or servers - but the interconnected people, tools, and decisions that make your work possible. Infrastructure, compliance, automation, judgment.<br>
-    If it interacts, it’s part of the system.
+    Not just apps or servers - but the interconnected people, tools, and decisions that make work possible.
   </aside>
 </section>
 
@@ -83,23 +81,20 @@ you see what’s bleeding time, money, and trust.</strong></p>
   </div>
   <p>
     We specialize in stabilizing high-consequence, complex operations
-    through grounded, real-world systems - not by chasing the latest cloud
-    tool, but by understanding how your business actually runs.
+    through grounded, real-world systems. We don't chase the latest cloud
+    tool. We work with you to understand how your business actually runs, and cost effective strategies for improvement.
   </p>
   <p>
-    Reactivity often creeps in slowly, in the form of late nights,
-    quiet burnout, or one too many heroic catches. Most teams don’t even
-    notice the shift at first. They just feel like everything’s slightly harder than it used to be. We’ll help you reclaim control - without disrupting the business to do it.
+    Reactivity often creeps in slowly, in the form of late nights or one too many heroic catches. Most teams don’t even
+    notice the shift at first. They just feel like everything’s slightly harder than it used to be. We’ll help you reclaim control without disrupting the business to do it.
   </p>
   <details class="case-study">
     <summary>Case Study: Scaling, Stalled - How Invisible Infrastructure Debt Drains Product Momentum</summary>
     <p>
      As a firm scaled, repeated technical breakdowns quietly began eating
-     into its core mission: instead of accelerating discovery, teams found
+     into its core mission: teams found
      themselves mired in troubleshooting. Infrastructure wasn’t failing
-     in dramatic ways, it was just misaligned, invisible, and slow to adapt. Time
-     was lost, momentum slipped, and product development suffered. This case
-     explores transforming IT from a cost center into a force multiplier.
+     in dramatic ways, it was just slow to adapt. Organizational inertia kept the band-aids coming, and product development suffered. This case explores transforming IT from a cost center into a force multiplier.
     </p>
     <p><a href="/downloads/cs-biotech-scaling.pdf">Download full case study (PDF)</a></p>
   </details>
@@ -110,7 +105,7 @@ you see what’s bleeding time, money, and trust.</strong></p>
   <div class="services-grid">
     <div class="service-short">
       <img src="/assets/svg/file-sliders.svg" alt="File-Sliders Icon" class="icon" />
-      <p>Insight into where controls, workload, and accountability have drifted apart and how to realign them without friction.</p>
+      <p>Insight into where controls and accountability have drifted apart and how to realign them without friction.</p>
     </div>
     <div class="service-short">
       <img src="/assets/svg/book-open-check.svg" alt="Book-Open-Check Icon" class="icon" />
@@ -129,20 +124,18 @@ you see what’s bleeding time, money, and trust.</strong></p>
     both FinTechs and traditional banks.
   </p>
   <p>
-    Many organizations don’t realize they’re exposed - or even complicit - until
-    someone puts the pattern in front of them. We bring that pattern into
-    focus, then help you act on it, calmly and responsibly.
+    Many organizations don’t realize they’re exposed or even complicit until
+    someone with regulatory experience identifies the gaps. We help you repair and build for the long haul - calmly and responsibly.
   </p>
   <details class="case-study"> 
     <summary>Case Study: Signal, not Noise - Assessing and Rebuilding Case Management Systems</summary>
     <p>
     Many institutions treat their transaction monitoring or case management 
     platform as the centerpiece of their financial crime compliance 
-    program - without realizing how quickly these tools can become liabilities. In 
+    program without realizing how quickly these tools can become liabilities. In 
     this composited case study, Anchor Accord examines a pattern observed across 
     multiple institutions: unclear system ownership, broken triage workflows, and 
-    misaligned alert logic that overwhelms staff while underperforming on actual 
-    risk.
+    misaligned alert logic that overwhelms staff while underperforming on actual risk.
     </p>
     <p><a href="/downloads/cs-banking-general.pdf">Download full case study (PDF)</a></p>
   </details>
@@ -166,37 +159,36 @@ you see what’s bleeding time, money, and trust.</strong></p>
   </div>
   <p>
     Some of the riskiest failures happen in the space between systems
-    and policy - where a vendor says “that’s not possible", and we can show you it is.
+    and policy - where a vendor says "that’s not possible", and we can show you it is.
   </p>
   <p>
-    We specialize in spotting where compliance controls and technical
-    architecture quietly drift apart - and helping you bring them back into alignment, 
-    without snake oil software pitches.
+    We can evaluate your vendors and provide solutions to integration, operations, and compliance systems that typically gets quietly absorbed by OpEx. 
+    We can help bring that under control without snake oil pitches.
   </p>
 </section>
 
 <section id="about" class="scroll-section">
 <h1>Our Founders</h1>
 <p>
-Anchor Accord was founded by two senior operators with deep experience in infrastructure and compliance. We've worked inside national ISPs, banks, and scaling companies, often stepping in when the pressure is high and the systems are already strained.
-</p>
-<p>
-We’ve seen what happens when ownership diffuses, frameworks get forced, or vendors quietly underdeliver. We’ve rebuilt trust, stabilized operations, and designed systems that hold up under real-world conditions.
-</p>
-<p>
-Anchor Accord is built on wisdom, not headcount.
+Anchor Accord was founded by two senior leaders that have seen what happens when ownership diffuses, frameworks get forced, or vendors quietly underdeliver. We rebuild trust, stabilize operations, and design systems that hold up under real-world conditions for the long haul.
 </p>
 
   <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem; margin-right: 1rem; margin-top: 1rem;">
     <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" />
   </figure>
   <blockquote>
-    <strong>Gregory C. Ross</strong><br>
+    
+    <a href="https://www.credly.com/badges/412f1c50-1493-4f8a-8aee-6533448a71d2/public_url"> <img src="/assets/img/isc2.png" width="60px" alt="ISC2 Badge"/></a>
+    <br>
+    <strong>Gregory C. Ross, CISSP</strong>
+    
+    
+    <br>
     <em>Principal, Infrastructure & Systems Strategy</em><br>
-    Technical architecture, automation, risk reduction
+    Systems, network, security and automation architecture
   </blockquote>
   <p>
-    Gregory Ross is an infrastructure and systems strategist with over 20 years of experience in mission-critical environments, including national ISPs and large-scale technical operations.
+    Gregory Ross is an infrastructure and systems strategist with over 20 years of experience in mission-critical, large scale technically complex and regulation heavy operations environments.
   </p>
   <p>
     He has led the design, deployment, and stabilization of real-time systems supporting millions of users, developed governance policy for production networks, and managed incident response across security, networking, and systems domains.
@@ -206,7 +198,9 @@ Anchor Accord is built on wisdom, not headcount.
   </p>
 
   <blockquote>
-    <strong>Nicole J. Gray</strong><br>
+  <a href="https://www.acams.org/en/graduates/acams-graduate-list-cams-certified-graduates#search=Nicole%20J.%20Gray&page=0"> <img src="/assets/img/cams-crest.png" width="60px" alt="CAMS Badge"/></a>
+  <br>
+    <strong>Nicole J. Gray, CAMS</strong><br>
     <em>Principal, Compliance & Regulatory Strategy</em><br>
     AML/BSA/OFAC, governance strategy, executive guidance
   </blockquote>
@@ -214,10 +208,10 @@ Anchor Accord is built on wisdom, not headcount.
     Nicole Gray is a CAMS-certified compliance executive with over 20 years of experience in financial crime oversight, including BSA/AML, OFAC, and broader regulatory frameworks. She has led enterprise remediation, rewritten governance under regulatory pressure, and supported exam prep for both fintechs and traditional banks.
   </p>
   <p>
-    She’s known for identifying hidden risk factors and delivering regulatory narratives that hold up under scrutiny.
+    She has saved organizations' reputations and exposure by identifying hidden risk factors and delivering regulatory narratives that hold up under scrutiny.
   </p>
   <p>
-    Nicole specializes in bringing structure to chaotic compliance environments and helping organizations become resilient, not just reactive.
+    Nicole specializes in bringing structure to compliance environments and helping organizations become resilient.
   </p>
 </section>
 
@@ -225,6 +219,6 @@ Anchor Accord is built on wisdom, not headcount.
   <h1>Contact</h1>
   <p>
     Anchor Accord works with a limited number of organizations at a time.
-    If you're navigating a moment of regulatory, technical, or operational complexities and need clarity, you can request a briefing below.
+    If you're navigating a moment of regulatory, technical, or operational complexities, request a briefing below.
   </p>
 </section>

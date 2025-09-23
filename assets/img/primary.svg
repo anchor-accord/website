@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <link rel="icon" href="/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  {% if page.tags %}
-  <meta name="keywords" content="{{ page.tags | join: ', ' }}">
-  {% endif %}
- <meta property="og:title" content="Anchor Accord | Infrastructure & Compliance" />
-<meta property="og:description" content="Strategic systems and regulatory clarity. We help scaling organizations stabilize what matters." />
-<meta property="og:image" content="https://anchoraccord.com/assets/img/og-image-dark.png" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://anchoraccord.com/" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Anchor Accord | Infrastructure & Compliance" />
-<meta name="twitter:description" content="Strategic systems and regulatory clarity. We help scaling organizations stabilize what matters." />
-<meta name="twitter:image" content="https://anchoraccord.com/assets/img/og-image-dark.png" />
-
-
-
-</head>
-<body>
-  <header class="topnav">
-    
-</div>
-
-    <div class="container">
-
-  <div class="site-branding">
-    
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 612 792">
   <defs>
@@ -41,7 +7,7 @@
       }
 
       .cls-2 {
-        fill: rgb(0, 12, 31);
+        fill: #0b1320;
       }
 
       .cls-3 {
@@ -99,88 +65,3 @@
   <polygon class="cls-2" points="264.14 262.74 86.02 262.74 86.02 255.91 270.3 255.91 264.14 262.74"/>
   <polygon class="cls-2" points="339.95 255.91 524.34 255.91 524.34 262.74 345.23 262.74 339.95 255.91"/>
 </svg>
-
-</div>
-
-      <nav class="site-nav">
-        
-        <a href="/#services">Services</a>
-        <a href="/#about">Our Founders</a>
-        <a href="/#contact">Contact</a>
-        <!--<a href="/guides/">⚓Guides</a>-->
-      </nav>
-    </div>
-  </header>
-<div class="page-wrapper">
-  
-  <div class="lead-cta">
-  Clarity for technical and regulatory systems under pressure.
-  
-</div>
-
-  <main class="content">
-    
-    {{ content }}
-
-
-      {% if page.show_cta %}
-  {% include cta.html %}
-{% endif %}
-<!-- Calendly badge widget begin 
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/greg-anchoraccord?background_color=eeeeff&primary_color=003333', text: 'Schedule a 30-minute Assessment', color: '#003366', textColor: '#ffffff', branding: true }); }</script>
-Calendly badge widget end -->
-
-<footer class="footer-with-image">
-
-  <p>Greater Boston-based. Available remotely or on-site. &copy; 2025 Anchor Accord</p>
-</footer>
-</div>
-
-  </main>
-</div>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const sections = document.querySelectorAll("section.scroll-section");
-    const navLinks = document.querySelectorAll(".site-nav a");
-
-    function activateLink() {
-      let scrollY = window.scrollY + 100; // Sticky nav offset fudge
-
-      let currentSectionId = null;
-
-      sections.forEach((section) => {
-        const top = section.offsetTop;
-        if (scrollY >= top) {
-          currentSectionId = section.getAttribute("id");
-        }
-      });
-
-      if (currentSectionId) {
-        navLinks.forEach((link) => {
-          link.classList.toggle("active", link.getAttribute("href") === `/#${currentSectionId}`);
-        });
-      }
-    }
-
-    window.addEventListener("scroll", activateLink);
-
-    // Optional: also update on click
-    document.querySelectorAll('a[href^="/#"]').forEach((link) => {
-      link.addEventListener("click", () => {
-        setTimeout(activateLink, 300);
-      });
-    });
-
-    activateLink();
-  });
-</script>
-
-
-
-
-
-
-</body>
-</html>

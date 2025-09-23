@@ -5,3 +5,8 @@ url: "https://anchoraccord.com"
 markdown: kramdown
 theme: null
 exclude: ["Gemfile", "Gemfile.lock", "README.md"]
+
+collections:
+  guides:
+    output: true
+    permalink: /guides/:slug/
