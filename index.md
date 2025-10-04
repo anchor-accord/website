@@ -34,7 +34,7 @@ tags:
 ---
   <h1>Infrastructure & Compliance</h1>
   <p>
-   We support organizations in navigating systemic, networking, and regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
+   We support organizations in navigating systemic, networking, and financial crime regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
   </p>
 
   <p><strong>Our clients generally don't realize something is off:</strong></p>
@@ -63,6 +63,50 @@ you see what’s bleeding time, money, and trust.</strong> We’ve replaced lega
   </aside>
 </section>
 
+<section class="service-block alt">
+  <h2>Compliance & Regulatory Audits</h2>
+  <div class="services-grid">
+    <div class="service-short">
+      <img src="/assets/svg/file-sliders.svg" alt="File-Sliders Icon" class="icon" />
+      <p>Insight into where controls and accountability have drifted apart and how to realign them without friction.</p>
+    </div>
+    <div class="service-short">
+      <img src="/assets/svg/book-open-check.svg" alt="Book-Open-Check Icon" class="icon" />
+      <p>Gap analysis and rewritten governance documentation focused on clarity.</p>
+    </div>
+    <div class="service-short">
+      <img src="/assets/svg/message-square-quote.svg"  alt="Message-Quote Icon" class="icon" />
+      <p>Regulator-facing narratives and remediation strategies that build confidence.</p>
+    </div>
+  </div>
+  <p>
+    Our compliance work focuses on BSA/AML/OFAC and broader financial crimes
+    frameworks. If you're preparing for an audit, untangling legacy policies, or
+    trying to understand what "good" looks like, we can help. We've led
+    strategic remediation, regulatory response, and exam prep across
+    both FinTechs and traditional banks.
+  </p>
+  <p>
+    Many organizations don’t realize they’re exposed or even complicit until
+    someone with regulatory experience identifies the gaps. We help you repair and build for the long haul.
+  </p>
+  <details class="case-study"> 
+    <summary>Case Study: Signal, not Noise - Assessing and Rebuilding Case Management Systems</summary>
+    <p>
+    Many institutions treat their transaction monitoring or case management 
+    platform as the centerpiece of their financial crime compliance 
+    program without realizing how quickly these tools can become liabilities. In 
+    this composited case study, Anchor Accord examines a pattern observed across 
+    multiple institutions: unclear system ownership, broken triage workflows, and 
+    misaligned alert logic that overwhelms staff while underperforming on actual risk.
+    </p>
+    <p><a href="/downloads/cs-banking-general.pdf">Download full case study (PDF)</a></p>
+  </details>
+</section>
+
+
+
+
 <section class="service-block">
   <h2>Systems and Infrastructure Health Assessments</h2>
   <div class="services-grid">
@@ -85,61 +129,20 @@ you see what’s bleeding time, money, and trust.</strong> We’ve replaced lega
     tool. We work with you to understand how your business actually runs, and cost effective strategies for improvement.
   </p>
   <p>
-    Reactivity often creeps in slowly, in the form of late nights or one too many heroic catches. Most teams don’t even
-    notice the shift at first. They just feel like everything’s slightly harder than it used to be. We’ll help you reclaim control without disrupting the business to do it.
+    Reactivity often creeps in slowly, in the form of late nights or one too many heroic catches. We’ll help you reclaim control without disrupting the business to do it.
   </p>
   <details class="case-study">
     <summary>Case Study: Scaling, Stalled - How Invisible Infrastructure Debt Drains Product Momentum</summary>
     <p>
      As a firm scaled, repeated technical breakdowns quietly began eating
      into its core mission: teams found
-     themselves mired in troubleshooting. Infrastructure wasn’t failing
-     in dramatic ways, it was just slow to adapt. Organizational inertia kept the band-aids coming, and product development suffered. This case explores transforming IT from a cost center into a force multiplier.
+     themselves mired in troubleshooting, and product development suffered. This case explores transforming technical resources from a cost center into a force multiplier.
     </p>
     <p><a href="/downloads/cs-biotech-scaling.pdf">Download full case study (PDF)</a></p>
   </details>
 </section>
 
-<section class="service-block alt">
-  <h2>Compliance & Regulatory Audits</h2>
-  <div class="services-grid">
-    <div class="service-short">
-      <img src="/assets/svg/file-sliders.svg" alt="File-Sliders Icon" class="icon" />
-      <p>Insight into where controls and accountability have drifted apart and how to realign them without friction.</p>
-    </div>
-    <div class="service-short">
-      <img src="/assets/svg/book-open-check.svg" alt="Book-Open-Check Icon" class="icon" />
-      <p>Gap analysis and rewritten governance documentation focused on clarity.</p>
-    </div>
-    <div class="service-short">
-      <img src="/assets/svg/message-square-quote.svg"  alt="Message-Quote Icon" class="icon" />
-      <p>Regulator-facing narratives and remediation strategies that build confidence.</p>
-    </div>
-  </div>
-  <p>
-    Our compliance work focuses on BSA/AML/OFAC and broader financial crimes
-    frameworks. If you're preparing for an audit, untangling legacy policies, or
-    trying to understand what “good” looks like, we can help. We've led
-    strategic remediation, regulatory response, and exam prep across
-    both FinTechs and traditional banks.
-  </p>
-  <p>
-    Many organizations don’t realize they’re exposed or even complicit until
-    someone with regulatory experience identifies the gaps. We help you repair and build for the long haul - calmly and responsibly.
-  </p>
-  <details class="case-study"> 
-    <summary>Case Study: Signal, not Noise - Assessing and Rebuilding Case Management Systems</summary>
-    <p>
-    Many institutions treat their transaction monitoring or case management 
-    platform as the centerpiece of their financial crime compliance 
-    program without realizing how quickly these tools can become liabilities. In 
-    this composited case study, Anchor Accord examines a pattern observed across 
-    multiple institutions: unclear system ownership, broken triage workflows, and 
-    misaligned alert logic that overwhelms staff while underperforming on actual risk.
-    </p>
-    <p><a href="/downloads/cs-banking-general.pdf">Download full case study (PDF)</a></p>
-  </details>
-</section>
+
 
 <section class="service-block bridge">
   <h2>Cross-Cut Reviews</h2>
@@ -159,10 +162,10 @@ you see what’s bleeding time, money, and trust.</strong> We’ve replaced lega
   </div>
   <p>
     Some of the riskiest failures happen in the space between systems
-    and policy - where a vendor says "that’s not possible", and we can show you it is.
+    and policy - where vendors and compliance drift apart in expensive and risky ways.
   </p>
   <p>
-    We can evaluate your vendors and provide solutions to integration, operations, and compliance systems that typically gets quietly absorbed by OpEx. 
+    We can evaluate your vendors and provide solutions to integration, operations, and compliance systems that typically gets quietly absorbed by OpEx and turnover. 
     We can help bring that under control without snake oil pitches.
   </p>
 </section>
@@ -170,8 +173,24 @@ you see what’s bleeding time, money, and trust.</strong> We’ve replaced lega
 <section id="about" class="scroll-section">
 <h1>Our Founders</h1>
 <p>
-Anchor Accord was founded by two senior leaders that have seen what happens when ownership diffuses, frameworks get forced, or vendors quietly underdeliver. We rebuild trust, stabilize operations, and design systems that hold up under real-world conditions for the long haul.
+Anchor Accord was founded by two senior leaders that have seen what happens when ownership diffuses, frameworks get forced, or vendors underdeliver. We rebuild trust, stabilize operations, and design systems that hold up under real-world conditions for the long haul.
 </p>
+<blockquote>
+  <a href="https://www.acams.org/en/graduates/acams-graduate-list-cams-certified-graduates#search=Nicole%20J.%20Gray&page=0"> <img src="/assets/img/cams-crest.png" width="60px" alt="CAMS Badge"/></a>
+  <br>
+    <strong>Nicole J. Gray, CAMS</strong><br>
+    <em>Principal, Compliance & Regulatory Strategy</em><br>
+    AML/BSA/OFAC, governance strategy, executive guidance
+  </blockquote>
+  <p>
+    Nicole Gray is a CAMS-certified compliance executive with over 20 years of experience in financial crime oversight, including BSA/AML, OFAC, and broader regulatory frameworks. She has led enterprise remediation, rewritten governance under regulatory pressure, and supported exam prep for both fintechs and traditional banks.
+  </p>
+  <p>
+    She has navigated complex regulatory environments where organizations' reputations are at stake by identifying hidden risk factors and delivering narratives that hold up under scrutiny.
+  </p>
+  <p>
+    Nicole specializes in bringing structure to compliance environments and helping organizations become resilient.
+  </p>
 
   <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem; margin-right: 1rem; margin-top: 1rem;">
     <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" />
@@ -184,35 +203,19 @@ Anchor Accord was founded by two senior leaders that have seen what happens when
     
     
     <br>
-    <em>Principal, Infrastructure & Systems Strategy</em><br>
-    Systems, network, security and automation architecture
+    <em>Technical & Governance Advisor</em><br>
+    Systems, network, security and automation
   </blockquote>
   <p>
-    Gregory Ross is an infrastructure and systems strategist with over 20 years of experience in mission-critical, large scale technically complex and regulation heavy operations environments.
+    Gregory Ross is an infrastructure and systems strategist with over 20 years of experience in large scale, technically complex network operations environments.
   </p>
   <p>
-    He has led the design, deployment, and stabilization of real-time systems supporting millions of users, developed governance policy for production networks, and managed incident response across security, networking, and systems domains.
+    He has led the design, deployment, and stabilization of real-time systems supporting millions of users, and created incident response governance across security, networking, and systems domains.
   </p>
   <p>
-    Gregory specializes in identifying failure patterns, reducing operational risk, and designing resilient, maintainable systems.
+    Gregory specializes in reducing operational risk, and designing resilient, maintainable systems.
   </p>
 
-  <blockquote>
-  <a href="https://www.acams.org/en/graduates/acams-graduate-list-cams-certified-graduates#search=Nicole%20J.%20Gray&page=0"> <img src="/assets/img/cams-crest.png" width="60px" alt="CAMS Badge"/></a>
-  <br>
-    <strong>Nicole J. Gray, CAMS</strong><br>
-    <em>Principal, Compliance & Regulatory Strategy</em><br>
-    AML/BSA/OFAC, governance strategy, executive guidance
-  </blockquote>
-  <p>
-    Nicole Gray is a CAMS-certified compliance executive with over 20 years of experience in financial crime oversight, including BSA/AML, OFAC, and broader regulatory frameworks. She has led enterprise remediation, rewritten governance under regulatory pressure, and supported exam prep for both fintechs and traditional banks.
-  </p>
-  <p>
-    She has saved organizations' reputations and exposure by identifying hidden risk factors and delivering regulatory narratives that hold up under scrutiny.
-  </p>
-  <p>
-    Nicole specializes in bringing structure to compliance environments and helping organizations become resilient.
-  </p>
 </section>
 
 <section id="contact" class="scroll-section">
