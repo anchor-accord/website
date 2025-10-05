@@ -2,10 +2,11 @@
 layout: default
 title: Home
 show_cta: True
-description: "Anchor Accord is a Boston-based infrastructure and compliance advisor with a background in ISP-scale systems and regulatory program rescue led by Gregory Ross and Nicole Gray."
+description: "Anchor Accord is a Boston-based infrastructure and compliance advisor with a background in large scale technical systems and regulatory programs."
 tags:
   - compliance consulting
   - AML remediation
+  - AML consulting
   - infrastructure assessment
   - networking consulting
   - regulatory risk
@@ -37,10 +38,9 @@ tags:
    We support organizations in navigating systemic, networking, and financial crime regulatory compliance risks. We clarify the decisions that improve efficiency and resilience, so operations run more predictably.
   </p>
 
-  <p><strong>Our clients generally don't realize something is off:</strong></p>
+  <p><strong>Our clients generally realize something is off:</strong></p>
   <blockquote>
   <ul>
-    <li>Systems cost more, but deliver less reliability or value.</li>
     <li>Vendors fail to produce results yet keep adding more fees.</li>
     <li>BSA/AML/OFAC risk is growing or recent audits have surfaced findings.</li>
     <li>Decision-making slows when urgency increases, even for experienced teams.</li>
@@ -50,16 +50,14 @@ tags:
 
 <section id="services" class="scroll-section">
   <h1>Services</h1>
-
-
 <p>We uncover break down technically and operationally. If you’ve had systems and network outages, audit scrambles, or vendor cost surprises, we find the root cause and fix it without blowing up your budget.</p>
-<p><strong>We don't sell servers, network gear, or theory fluff. We help
-you see what’s bleeding time, money, and trust.</strong> We’ve replaced legacy responsibilities with a few lines of code. We’ve cut year-long onboarding delays to a week with two pages of documentation. We make things easier.</p>
+<p><strong>We don't sell service platforms, or a binder saying "reduce headcount". We help
+you see what’s actually bleeding time, money, and trust.</strong> We’ve replaced legacy responsibilities with a few lines of code. We’ve cut year-long onboarding delays to a week with two pages of documentation. We make things easier.</p>
 
 
   <aside class="note-block">
     <strong>What we mean by “systems”:</strong><br>
-    Not just apps or servers - but the interconnected people, tools, and decisions that make work possible.
+    Not just apps or servers - but the interconnected people, tools, and decisions that make value creation possible.
   </aside>
 </section>
 
@@ -124,12 +122,11 @@ you see what’s bleeding time, money, and trust.</strong> We’ve replaced lega
     </div>
   </div>
   <p>
-    We specialize in stabilizing high-consequence, complex operations
-    through grounded, real-world systems. We don't chase the latest cloud
-    tool. We work with you to understand how your business actually runs, and cost effective strategies for improvement.
+    We specialize in stabilizing high-consequence, complex operations. 
+    We don't chase the latest cloud tool. We work with you to understand how your business actually runs, and deliver cost effective strategies for improvement.
   </p>
   <p>
-    Reactivity often creeps in slowly, in the form of late nights or one too many heroic catches. We’ll help you reclaim control without disrupting the business to do it.
+    Reactivity often creeps in slowly, in the form of late nights or heroic catches. We’ll help you reclaim control without disrupting the business to do it.
   </p>
   <details class="case-study">
     <summary>Case Study: Scaling, Stalled - How Invisible Infrastructure Debt Drains Product Momentum</summary>
@@ -173,7 +170,7 @@ you see what’s bleeding time, money, and trust.</strong> We’ve replaced lega
 <section id="about" class="scroll-section">
 <h1>Our Founders</h1>
 <p>
-Anchor Accord was founded by two senior leaders that have seen what happens when ownership diffuses, frameworks get forced, or vendors underdeliver. We rebuild trust, stabilize operations, and design systems that hold up under real-world conditions for the long haul.
+Anchor Accord was founded by two senior leaders that have seen what happens when ownership diffuses, frameworks get forced, or vendors underdeliver. 
 </p>
 <blockquote>
   <a href="https://www.acams.org/en/graduates/acams-graduate-list-cams-certified-graduates#search=Nicole%20J.%20Gray&page=0"> <img src="/assets/img/cams-crest.png" width="60px" alt="CAMS Badge"/></a>
@@ -222,6 +219,6 @@ Anchor Accord was founded by two senior leaders that have seen what happens when
   <h1>Contact</h1>
   <p>
     Anchor Accord works with a limited number of organizations at a time.
-    If you're navigating a moment of regulatory, technical, or operational complexities, request a briefing below.
+    If you're navigating a moment of regulatory, technical, or operational complexity, request a briefing below.
   </p>
 </section>
