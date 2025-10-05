@@ -183,7 +183,7 @@ Anchor Accord was founded by two senior leaders that have seen what happens when
     AML/BSA/OFAC, governance strategy, executive guidance
   </blockquote>
   <p>
-    Nicole Gray is a CAMS-certified compliance executive with over 20 years of experience in financial crime oversight, including BSA/AML, OFAC, and broader regulatory frameworks. She has led enterprise remediation, rewritten governance under regulatory pressure, and supported exam prep for both fintechs and traditional banks.
+    Nicole Gray is a CAMS-certified compliance executive with over 20 years of experience in financial crime compliance oversight, including BSA/AML, OFAC, and broader regulatory frameworks. She has led enterprise remediation, rewritten governance under regulatory pressure, and supported exam prep for both FinTechs and traditional banks.
   </p>
   <p>
     She has navigated complex regulatory environments where organizations' reputations are at stake by identifying hidden risk factors and delivering narratives that hold up under scrutiny.
